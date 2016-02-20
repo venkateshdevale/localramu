@@ -7,8 +7,8 @@
  **************************************
  */
 
-$to = 'YOUR_EMAIL_ADDRESS';
-$siteName = "YOUR_SITE_NAME";
+$to = 'imanagepages@gmail.com';
+$siteName = "Local Ramu";
 
 /*
  *************************************************************
